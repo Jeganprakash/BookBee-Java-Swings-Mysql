@@ -1,4 +1,4 @@
-## Online E-book selling Desktop application prototype
+## Prototype of Online ebook selling Desktop application
 
 - With Simple Recommender System
 - Admin panel for admin to update and track books
